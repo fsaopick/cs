@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\sisharp\bin\Debug\sisharp.exe.config
+C:\Users\HOME\Desktop\sisharp\bin\Debug\sisharp.exe
+C:\Users\HOME\Desktop\sisharp\bin\Debug\sisharp.pdb
+C:\Users\HOME\Desktop\sisharp\obj\Debug\sisharp.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\sisharp\obj\Debug\sisharp.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\sisharp\obj\Debug\sisharp.exe
+C:\Users\HOME\Desktop\sisharp\obj\Debug\sisharp.pdb
